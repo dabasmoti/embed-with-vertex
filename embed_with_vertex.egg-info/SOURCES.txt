@@ -1,0 +1,7 @@
+setup.py
+embed_with_vertex.egg-info/PKG-INFO
+embed_with_vertex.egg-info/SOURCES.txt
+embed_with_vertex.egg-info/dependency_links.txt
+embed_with_vertex.egg-info/entry_points.txt
+embed_with_vertex.egg-info/requires.txt
+embed_with_vertex.egg-info/top_level.txt

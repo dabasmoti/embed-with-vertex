@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+google-cloud-aiplatform = "==1.40.0"
+polars = "==0.20.5"
+transformers = "==4.36.1"
+sentence-transformers = "==2.3.0"
+datasets = "==2.16.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

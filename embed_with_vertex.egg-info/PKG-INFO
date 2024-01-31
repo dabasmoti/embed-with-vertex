@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: embed-with-vertex
+Version: 0.1.0
+Summary: A project to embed with vertex
+Author: Moti Dabastani 
+Author-email: dabastany@gmail.com
+Requires-Dist: google-cloud-aiplatform==1.40.0
+Requires-Dist: sentence-transformers==2.3.0
+Requires-Dist: transformers==4.36.1
+Requires-Dist: polars==0.20.5
+Requires-Dist: transformers==4.36.1
+Requires-Dist: datasets==2.16.0
